@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Quick Table add">8aae27330714a0105394f6fd7c1ed0bb</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Quick Table adds</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_quick_table_add</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.quick_table_add_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 22:36:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ceae27330714a0105394f6fd7c1ed0be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quick Table adds</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_ceae27330714a0105394f6fd7c1ed0be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 22:36:23</sys_updated_on>
+        <timeline_page/>
+        <title>Quick Table adds</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>b432de5adb83c4104d2bac44d4961914</instance_id>
+        <instance_name>dev101458</instance_name>
+        <name>sys_app_module_ceae27330714a0105394f6fd7c1ed0be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Quick Table add">8aae27330714a0105394f6fd7c1ed0bb</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Quick Table adds</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_quick_table_add</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.quick_table_add_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-12 22:36:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ceae27330714a0105394f6fd7c1ed0be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Quick Table adds</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_ceae27330714a0105394f6fd7c1ed0be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-12 22:36:23</sys_updated_on><timeline_page/><title>Quick Table adds</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-27363381</payload_hash>
+        <record_name>Quick Table adds</record_name>
+        <reverted_from/>
+        <source>45aa36ef07d460105394f6fd7c1ed0b8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 22:36:23</sys_created_on>
+        <sys_id>4aae27330714a0105394f6fd7c1ed0cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175be9a48800000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 22:36:23</sys_updated_on>
+        <type>Module</type>
+        <update_guid>caae2733b714a01035dde7ba1dafc9c0</update_guid>
+        <update_guid_history>caae2733b714a01035dde7ba1dafc9c0:-27363381</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Quick Table adds">7dde2b330714a0105394f6fd7c1ed039</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 22:37:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>129537a8bccc4405a85b5fd044a51599</sys_id>
+        <sys_metadata>ceae27330714a0105394f6fd7c1ed0be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quick Table adds</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_ceae27330714a0105394f6fd7c1ed0be</sys_update_name>
+        <sys_update_version display_value="sys_app_module_ceae27330714a0105394f6fd7c1ed0be">4aae27330714a0105394f6fd7c1ed0cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 22:37:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
